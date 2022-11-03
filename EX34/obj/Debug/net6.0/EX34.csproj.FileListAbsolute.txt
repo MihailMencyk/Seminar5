@@ -1,0 +1,15 @@
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.csproj.AssemblyReference.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.AssemblyInfoInputs.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.AssemblyInfo.cs
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.csproj.CoreCompileInputs.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\bin\Debug\net6.0\EX34.exe
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\bin\Debug\net6.0\EX34.deps.json
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\bin\Debug\net6.0\EX34.runtimeconfig.json
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\bin\Debug\net6.0\EX34.dll
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\bin\Debug\net6.0\EX34.pdb
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.dll
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\refint\EX34.dll
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.pdb
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\EX34.genruntimeconfig.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar5\EX34\obj\Debug\net6.0\ref\EX34.dll
